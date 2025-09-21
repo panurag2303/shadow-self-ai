@@ -50,7 +50,8 @@ This project is called **Shadow Self**. It is a simple AI made to help youth wit
 **bash**
 pip install flask
 python3 app.py
-after running above two In Cloud Shell, click Web Preview → Preview on port 8080
+after running above two In Cloud Shell, 
+click Web Preview → Preview on port 8080
 
 ***You will see the Shadow Self page.
 
