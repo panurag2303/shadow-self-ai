@@ -3,10 +3,13 @@
 Hi! We are **Synergetic AI Team**, a group of five students registered for this project. 
 My name is Anurag Pathak, and I am one of the team members.  
 
-**Important note:** This project is **personally done by me**. 
-Although I am part of a group, the other team members did not communicate or collaborate on this project. I made the entire AI Project and all the code myself as a student participating in the Google Hackathon.  
+**Please Notee** This project has been developed compeletly by me. While I am part of a team, my fellow members did not contribute to this specific project. 
+I created the entire AI project and wrote all the code independently as a participant in the Google Hackathon.
 
-This project is called **Shadow Self**. It is a simple AI made to help youth with mental wellness. Sometimes, young people feel stressed, lonely, or scared to talk about their feelings. Shadow Self is like a **friendly big brother** that listens and gives advice.  
+The is name of this Ai and project is Shadow Self. 
+It is a simple and straightforward AI designed to support youth in their mental wellness journeys. 
+Young individuals often experience feelings of stress, loneliness, or apprehension when discussing their emotions. 
+Shadow Self acts like a caring older sibling who listens and offers guidance. 
 
 ---
 
