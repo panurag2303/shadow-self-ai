@@ -1,8 +1,10 @@
 # Shadow Self - Youth Mental Wellness AI
 
-Hi! We are **Synergetic AI Team**, a group of five students registered for this project. My name is Anurag Pathak, and I am one of the team members.  
+Hi! We are **Synergetic AI Team**, a group of five students registered for this project. 
+My name is Anurag Pathak, and I am one of the team members.  
 
-**Important note:** This project is **personally done by me**. Although I am part of a group, the other team members did not communicate or collaborate on this project. I made the entire AI Project and all the code myself as a student participating in the Google Hackathon.  
+**Important note:** This project is **personally done by me**. 
+Although I am part of a group, the other team members did not communicate or collaborate on this project. I made the entire AI Project and all the code myself as a student participating in the Google Hackathon.  
 
 This project is called **Shadow Self**. It is a simple AI made to help youth with mental wellness. Sometimes, young people feel stressed, lonely, or scared to talk about their feelings. Shadow Self is like a **friendly big brother** that listens and gives advice.  
 
@@ -42,10 +44,10 @@ This project is called **Shadow Self**. It is a simple AI made to help youth wit
 ## How to Run Shadow Self
 
 1. Open **Google Cloud Shell** or your local terminal.  
-2. Make sure you are in the folder with "app.py".  
+2. Make sure you are in the folder with **app.py**.  
 3. Install Flask if you haven’t already:
 
-**bash
+**bash**
 pip install flask
 python3 app.py
 after running above two In Cloud Shell, click Web Preview → Preview on port 8080
@@ -63,4 +65,4 @@ GitHub Repository
 You can see the full code here:
 https://github.com/panurag2303/shadow-self-ai
 
-Thanks for checking out our project! I hope Shadow Self can help youth feel a little more supported.
+Thanks for checking out our project! I hope Shadow Self can help youth feel a little more supported , i can make any improvement if suggested by Google genai Hackathon Team..
