@@ -64,6 +64,6 @@ This project is completely developed by me, as a single participant in the hacka
 
 GitHub Repository
 You can see the full code here:
-https://github.com/panurag2303/shadow-self-ai
+(https://github.com/panurag2303/shadow-self-ai/blob/main/app.py)
 
 Thanks for checking out our project! I hope Shadow Self can help youth feel a little more supported , i can make any improvement if suggested by Google genai Hackathon Team..
